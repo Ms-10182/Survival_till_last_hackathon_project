@@ -32,7 +32,7 @@ We are planning to elevate its level further more and encourage people to play o
 2) css
 3) html5
 4) javascript
-5) Remix Ide
-Try it out
- [ms-10182.github.io](https://ms-10182.github.io/Survival_till_last_hackathon_project/)
+5) Remix Ide <br>
+Try it out<br>
+ [ms-10182.github.io](https://ms-10182.github.io/Survival_till_last_hackathon_project/)<br>
  [GitHub Repo](https://github.com/Ms-10182/Survival_till_last_hackathon_project)
