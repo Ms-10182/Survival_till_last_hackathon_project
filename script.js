@@ -732,9 +732,10 @@ window.onload = function() {
 };
 
 document.getElementById('connectWallet').onclick = async() => {
-    provider = new ethers.providers.Web3Provider(window.ethereum);
-    await provider.send("eth_requestAccounts", []);
-    signer = provider.getSigner();
+
+	 provider = new ethers.BrowserProvider(window. ethereum);
+		await window.ethereum.request({ method: "eth_requestAccounts" });
+		 signer = await provider.getSigner();
     contract = new ethers.Contract(contractAddress, contractABI, signer);
     console.log(`connected account: ${await signer.getAddress()}`);
     document.getElementById('connectWallet').innerText = `${await signer.getAddress()}`;
