@@ -2,6 +2,7 @@
 ### Contract verification: 0xF7bB7Edcb520C9ed005afa9Bbb6A6C416C80cBDD deployed on EtherLink testnet
 verify here - [VERIFY](https://testnet.explorer.etherlink.com/address/0xF7bB7Edcb520C9ed005afa9Bbb6A6C416C80cBDD)
 ![image](https://github.com/user-attachments/assets/9373896c-34db-41ee-850c-f217bedd61a3)
+Checkout video link: [click here](https://www.loom.com/share/1528bda6533c41518851a79b06aad3b5?sid=96188bc5-006d-4091-a343-9093d1006d65) 
 
 ## Inspiration
 There are so many disasters happening and victims needs aid ASAP and crowd funding in such situation will help a lot in short time but user engagement is low in doing funding . So I created a website and hosted a interesting game there in which we have to survive and kill monsters, for each monsters we will get 1 token then we can donate these tokens to organization listed in the same website where organization will be hosting crowd funding. Playing an online game for free always seems fascinating to me also when we are getting rewards who don't wanna play this game. In this manner organization will get capital and use it for good of victims affected by disasters like flood, earthquake. Also user will be rewarded for donation
