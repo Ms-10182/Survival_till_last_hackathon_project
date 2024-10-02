@@ -1,4 +1,5 @@
 # SURVIVAL FOR HUMANITY
+## Live link - https://ms-10182.github.io/Survival_till_last_hackathon_project/
 ### Contract verification: 0xF7bB7Edcb520C9ed005afa9Bbb6A6C416C80cBDD deployed on EtherLink testnet
 verify here - [VERIFY](https://testnet.explorer.etherlink.com/address/0xF7bB7Edcb520C9ed005afa9Bbb6A6C416C80cBDD)
 ![image](https://github.com/user-attachments/assets/9373896c-34db-41ee-850c-f217bedd61a3)
