@@ -1,9 +1,10 @@
-# SURVIVAL FOR HUMANITY
-## Live link - https://ms-10182.github.io/Survival_till_last_hackathon_project/
+# Hack7DaysHack7Days TI x CU
+# SURVIVAL FOR HUMANITY - Team skyscrapers
 ### Contract verification: 0xF7bB7Edcb520C9ed005afa9Bbb6A6C416C80cBDD deployed on EtherLink testnet
 verify here - [VERIFY](https://testnet.explorer.etherlink.com/address/0xF7bB7Edcb520C9ed005afa9Bbb6A6C416C80cBDD)
 ![image](https://github.com/user-attachments/assets/9373896c-34db-41ee-850c-f217bedd61a3)
 ### Checkout video link: [click here](https://www.loom.com/share/1528bda6533c41518851a79b06aad3b5?sid=96188bc5-006d-4091-a343-9093d1006d65) 
+
 ### screenshots: 
 ![image](https://github.com/user-attachments/assets/9400a483-0d44-4f06-a814-8ae42131bce3)
 
